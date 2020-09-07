@@ -1,0 +1,1 @@
+export const rootURL = "https://shootrz-api.herokuapp.com/api/dashboard/"
